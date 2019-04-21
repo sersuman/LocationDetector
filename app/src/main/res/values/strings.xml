@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationDetector</string>
+    <string name="google_map_api_key">AIzaSyAi8wnjWpnswUQ8eo1TaHRLCvgLKds3lc4</string>
+</resources>
